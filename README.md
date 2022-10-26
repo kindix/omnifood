@@ -1,5 +1,5 @@
-# omnifood
-first website created by me
+# omnifood website 
+first website created by me during watched video-course: https://www.udemy.com/share/101Wqo3@bF4DlGVZxv4d14arpDqgAoRKgRXdP1vfutuzNVQ7JaTFaS4RDaSqsM31j183vgbNIw==/
 
 
-link for check with out: https://omnifood-by-kindix.netlify.app/
+link for check with out: <b> https://omnifood-by-kindix.netlify.app/ </b>
